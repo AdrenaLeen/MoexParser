@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoexParser", "MoexParser\MoexParser.csproj", "{FE31470C-D719-4E20-941D-8D53DC923425}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoexParserExample", "MoexParserExample\MoexParserExample.csproj", "{BDC523A4-EC91-421B-8D3C-5F17D8043C0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE31470C-D719-4E20-941D-8D53DC923425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE31470C-D719-4E20-941D-8D53DC923425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE31470C-D719-4E20-941D-8D53DC923425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE31470C-D719-4E20-941D-8D53DC923425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC523A4-EC91-421B-8D3C-5F17D8043C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC523A4-EC91-421B-8D3C-5F17D8043C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC523A4-EC91-421B-8D3C-5F17D8043C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC523A4-EC91-421B-8D3C-5F17D8043C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9025E08B-1B51-46EC-BFE1-0D5BA8A1F624}
+	EndGlobalSection
+EndGlobal
